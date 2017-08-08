@@ -6,3 +6,5 @@ The assignments have been implemented using python. All the assignments complete
 Assignment 1:
   1) k-Nearest Neighbor classifier
   2) Training a Support Vector Machine
+  3) Implement a Softmax classifier 
+  4) Two-layer neural network
