@@ -1,0 +1,16 @@
+In order to get the codes to produce the desired output one must run the get_datasets.sh file in the datasets folder.
+To run the script locate the file via terminal & type "./get_datasets.sh"
+
+The following libraries would be needed (install them as root user):
+1) Pip - "sudo apt-get install python-pip python-dev build-essential" followed by "sudo pip install --upgrade pip" 
+2) jupyter notebook and its dependecies(ipython, ipython-kernel etc.) - "pip get install jupyter"(native pip)
+3) numpy - "pip install numpy"(native pip)
+4) scipy - "pip install scipy"(native pip)
+5) matplotlib - "pip install matplotlib"(native pip)
+
+** No need to do step 1 on a windows machine
+On a windows machine try installing the packages like scipy and numpy via a whl file else the installation might cause troubles
+The link for the whl files is given below :
+"http://www.lfd.uci.edu/~gohlke/pythonlibs/"
+
+Download and in the location of the file type - pip install "filename.whl" in the command prompt
